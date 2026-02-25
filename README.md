@@ -118,14 +118,3 @@ Allan Kamau
 
 🔗 GitHub: https://github.com/Allankw-dev
 
-If you want next-level 🔥 we can:
-
-Add a project demo GIF
-
-Add contribution graph impact explanation
-
-Make your GitHub profile README match this style
-
-Optimize your whole GitHub to look job-ready**
-
-What’s the goal — coursework marks or job hunting?
