@@ -1,4 +1,4 @@
-# hospital--program.,.
+# hospital--program.,
 A console-based Hospital Management System built in Java to demonstrate strong Object-Oriented Programming (OOP) principles, clean code structure, and real-world system simulation.
 
 This project simulates core hospital operations such as managing patients, doctors, and scheduling appointments.
